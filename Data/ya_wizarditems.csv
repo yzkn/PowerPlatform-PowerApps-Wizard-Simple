@@ -1,0 +1,4 @@
+﻿ya_content,ya_description,ya_id,ya_itemtype,ya_question,ya_title,ya_titleabbreviation,ya_wizarditemid,ya_nextitem
+,氏名を確認します。,00000003,128240003,氏名を入力してください。,氏名入力,氏名,5c150c56-aa91-ee11-be37-0022486426fe,
+<ul><li>12歳未満...</li><li>12歳以上...</li><li>20歳以上...</li><li>65歳以上...</li></ul>,年齢を確認します。,00000002,128240001,年齢を入力してください。,年齢入力,年齢,05b8badf-a991-ee11-be37-0022486426fe,5c150c56-aa91-ee11-be37-0022486426fe
+,性別を確認します。,00000001,128240001,性別を入力してください。,性別入力,性別,e282c2a8-a891-ee11-be37-0022486426fe,05b8badf-a991-ee11-be37-0022486426fe
